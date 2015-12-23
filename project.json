@@ -1,0 +1,17 @@
+{
+    "AppName": "sparkapp",
+    "Jarfile": "sparkapp.jar",
+    "MainClass": "SparkApp",
+    "ScalaVersion": "2.10.4",
+
+    "ProjectName": "Spark Application",
+    "ProjectVersion": "0.0.1",
+    "ProjectDescription": "A Spark Application",
+
+    "OrganizationName": "Organization",
+    "OrganizationPackage": "org.package",
+    "OrganizationWebsite": "organization.io",
+
+    "LocalExecutorMemory": "1g",
+    "LocalExecutorThreads": 6
+}
